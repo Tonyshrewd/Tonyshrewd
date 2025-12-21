@@ -23,7 +23,7 @@ Git & GitHub, LaTeX, Power BI, Microsoft Excel
 
 
 
-## 🌐 Academic Portfolio
+## 🌐 My google site
 🔗 https://sites.google.com/odu.edu/anthonylaminima/about  
 
 📧 Email: laminianthony123@gmail.com
