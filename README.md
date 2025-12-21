@@ -17,9 +17,10 @@ My research interests lie in applied microeconometrics and empirical finance. I 
 
 ---
 
-## Software Skills
+## 💻 Software Skills
 R, Python, RStudio, Jupyter Notebook  
 Git & GitHub, LaTeX, Power BI, Microsoft Excel
+
 
 
 ## 🌐 Academic Portfolio
