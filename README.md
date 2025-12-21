@@ -4,20 +4,8 @@
 📍 Old Dominion University | Norfolk, VA  
 
 I am a graduate student in economics with strong training in econometrics and applied quantitative research.  
-My academic interests lie at the intersection of **financial markets, risk, applied microeconometrics, and policy-relevant empirical analysis**.
+My research interests lie in applied microeconometrics and empirical finance. I am interested in using causal inference and machine learning methods to study how risk, policy, and information shape firm and household behavior. My work focuses on financial markets, household finance and spending behavior, housing and real estate markets, and transportation policy, with an emphasis on empirically credible identification and policy relevance.
 
-I am preparing for **PhD study in Economics / Finance**, with a focus on causal inference, market behavior, and applied empirical research.
-
----
-
-## 🧠 Research Agenda
-My research examines how **policy interventions, risk, and information (including sentiment)** shape economic and financial outcomes.  
-I am particularly interested in:
-
-- Financial markets and investor sentiment  
-- Enterprise risk management and firm performance  
-- Transportation policy and safety outcomes  
-- Housing and real estate market responses to infrastructure and regulation  
 
 ---
 
