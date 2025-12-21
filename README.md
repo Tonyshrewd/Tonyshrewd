@@ -1,7 +1,10 @@
 # Anthony Lamini
 
-🎓 MA Economics (Econometrics & Quantitative Economics)  
-📍 Old Dominion University | Norfolk, VA  
+🎓 **MA Economics (Econometrics & Quantitative Economics)**  
+[Old Dominion University – M.A. in Economics](https://www.odu.edu/academics/programs/masters/economics)
+
+📍 [Old Dominion University, Norfolk, VA](https://www.google.com/maps?q=36.88602804979137,-76.30572580101692)
+
 
 I am a graduate student in economics with strong training in econometrics and applied quantitative research.  
 My research interests lie in applied microeconometrics and empirical finance. I am interested in using causal inference and machine learning methods to study how risk, policy, and information shape firm and household behavior. My work focuses on financial markets, household finance and spending behavior, housing and real estate markets, and transportation policy, with an emphasis on empirically credible identification and policy relevance.
