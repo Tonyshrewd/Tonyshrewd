@@ -10,7 +10,7 @@ My research interests lie in applied microeconometrics and empirical finance. I 
 ---
 
 ## 📊 Projects
-- Financial Market and Sentiment
+- Financial Market and Sentiment: https://github.com/Erdos-Projects/fall-2025-financial-markets-and-sentiment
 - Impact of I-66 Tolling Policy On Road-Safety
 - Product Recommendation System Using Apache Spark ALP
 - Using Machine Learning Model to Predict Loan Outcomes
