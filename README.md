@@ -1,7 +1,6 @@
 # Anthony Lamini
 
-🎓 **MA Economics (Econometrics & Quantitative Economics)**  
-[Old Dominion University – M.A. in Economics](https://www.odu.edu/academics/programs/masters/economics)
+🎓 [**MA Economics (Econometrics & Quantitative Economics)** ](https://www.odu.edu/academics/programs/masters/economics)
 
 📍 [Old Dominion University, Norfolk, VA](https://www.google.com/maps?q=36.88602804979137,-76.30572580101692)
 
