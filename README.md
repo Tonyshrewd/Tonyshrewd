@@ -35,8 +35,3 @@ I have research experience with:
 - 📄 E-Portfolio: https://sites.google.com/odu.edu/anthonylaminima/about
 - 📫 Email: laminianthony123@gmail.com
 
----
-
-
-- 📄 E-Portfolio Website: https://sites.google.com/odu.edu/anthony-lamini  
-- 📧 Email: laminianthony123@gmail.com
