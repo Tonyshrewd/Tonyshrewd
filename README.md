@@ -8,12 +8,13 @@ My research interests lie in applied microeconometrics and empirical finance. I 
 
 
 ---
-
 ## 📊 Projects
-- Financial Market and Sentiment: https://github.com/Erdos-Projects/fall-2025-financial-markets-and-sentiment
-- Impact of I-66 Tolling Policy On Road-Safety
-- Product Recommendation System Using Apache Spark ALP
-- Using Machine Learning Model to Predict Loan Outcomes
+
+- **[Financial Market and Sentiment](https://github.com/Erdos-Projects/fall-2025-financial-markets-and-sentiment)**  
+- **[Impact of I-66 Tolling Policy on Road Safety](https://sites.google.com/odu.edu/anthonylaminima/academics/spring-2025/econ-502)**  
+- **[Product Recommendation System Using Apache Spark ALS](https://sites.google.com/odu.edu/anthonylaminima/academics/summer-2025/cs624)**  
+- **[Using Machine Learning Models to Predict Loan Outcomes](https://sites.google.com/odu.edu/anthonylaminima/academics/summer-2025/cs624)**  
+
 
 ---
 
