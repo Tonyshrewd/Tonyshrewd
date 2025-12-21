@@ -9,32 +9,18 @@ My research interests lie in applied microeconometrics and empirical finance. I 
 
 ---
 
-## 📊 Recent Research Experience
-- Empirical analysis of **financial market behavior and sentiment**, studying how sentiment indicators relate to market dynamics and volatility  
-- Applied causal inference using real-world economic and financial datasets  
-- Ongoing work in transportation safety and policy evaluation using Difference-in-Differences methods  
+## 📊 Projects
+- Financial Market and Sentiment
+- Impact of I-66 Tolling Policy On Road-Safety
+- Product Recommendation System Using Apache Spark ALP
+- Using Machine Learning Model to Predict Loan Outcomes
 
 ---
 
-## 🔬 Methods & Technical Training
-- **Econometrics:** Difference-in-Differences, panel data models, regression analysis  
-- **Time Series:** ARIMA / SARIMA forecasting  
-- **Data Analysis:** Financial and economic data, sentiment indicators  
-- **Programming:** R, Python, SQL  
-- **Research Tools:** GitHub (reproducibility), LaTeX, Power BI  
+## Software Skills
+R, Python, RStudio, Jupyter Notebook  
+Git & GitHub, LaTeX, Power BI, Microsoft Excel
 
----
-
-## 📂 Research Outputs
-⬇️ See pinned repositories below for selected empirical research projects ⬇️
-
-Each repository contains:
-- Research question and motivation  
-- Data description  
-- Methodology  
-- Replicable code and results  
-
----
 
 ## 🌐 Academic Portfolio
 🔗 https://sites.google.com/odu.edu/anthonylaminima/about  
