@@ -9,9 +9,9 @@
 
 **Research Interest**
 
-*Asset pricing*
-*Macro-finance* 
-*Real Estate Economics.*
+- *Asset pricing*
+- *Macro-finance* 
+- *Real Estate Economics.*
 
 
 ---
