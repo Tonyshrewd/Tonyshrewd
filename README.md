@@ -7,10 +7,11 @@
 
 *I am a graduate student in economics with strong training in econometrics and applied quantitative research.*  
 
-*Research Interest*
-Asset pricing
-Macro-finance 
-Real Estate Economics.
+**Research Interest**
+
+*Asset pricing*
+*Macro-finance* 
+*Real Estate Economics.*
 
 
 ---
