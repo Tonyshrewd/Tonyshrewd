@@ -9,6 +9,7 @@
 
 **Research Interest**
 - *Asset pricing*
+- *Risk Managemnt and Compliance*
 - *Macro-finance* 
 - *Real Estate Economics.*
 
