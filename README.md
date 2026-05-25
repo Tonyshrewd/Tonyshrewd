@@ -8,11 +8,9 @@
 *I am a graduate student in economics with strong training in econometrics and applied quantitative research.*  
 
 **Research Interest**
-- *Asset pricing*
-- *Budget Analysis* 
-- *Financial Market* 
+- *Asset Pricing*
 - *Real Estate*
-- *Risk*
+- *Macroeconomics*
 
 
 ---
