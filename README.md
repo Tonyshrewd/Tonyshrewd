@@ -10,7 +10,8 @@
 **Research Interest**
 - *Asset Pricing*
 - *Real Estate*
-- *Macroeconomics*
+- *Financial Intermediation*
+- *FX Market*
 
 
 ---
