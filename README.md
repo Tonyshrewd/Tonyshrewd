@@ -2,7 +2,7 @@
 
 **M.A. Economics candidate · Old Dominion University, Norfolk, VA**
 
-I am a Master's student in Economics and a Research Assistant at the E.V. Williams Center for Real Estate at Old Dominion University. I hold a bachelor's degree with a double major in Economics and Accounting, and I graduated in the top 3% of my cohort from the University of Ghana. Alongside my studies, I have worked as a Risk Analyst and completed internships in tax, audit, and financial reporting. My primary goal is to pursue a PhD in Finance.
+I am a Master's student in Economics and a Research Assistant at the E.V. Williams Center for Real Estate at Old Dominion University. I hold a bachelor's degree with a double major in Economics and Accounting, and I graduated in the top 3% of my cohort from the University of Ghana. Alongside my studies, I have worked as a Risk Analyst and completed internships in tax, audit, and financial reporting. My primary goal is to pursue a PhD in Finance after my Master's.
 
 **Research interests:** Financial Intermediation · International Finance · Real Estate Finance · Empirical Asset Pricing
 
