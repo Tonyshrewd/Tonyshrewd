@@ -9,7 +9,7 @@
 
 **Research Interest**
 
--International Finance
+- *International Finance*
 - *Financial Intermediation*
 - *Asset Pricing*
 - *Real Estate Finance*
